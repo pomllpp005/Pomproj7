@@ -16,3 +16,17 @@ Fahsai: Next Monday....that is OK!!! I'm looking forward to watching Star Wars V
 Luke Skywalker: May the Force be with you krub
 Fahsai: 555+ see you Next Monday. Bye Bye \(^ ^)/
 */
+#include <iostream>
+#include <string>
+using namespace std;
+int main(){
+    string name;
+    cout << "Fahsai: Sawadee ka...Can you tell me your name?\n";
+    cout << "?????: po";
+    cin >> name;
+    cout<<"Fahsai: Wow!!! "<<name<<" is a really cool name.\n";
+    cout<< "I think you are an Engineering student. What is your student ID?\n";
+    cout<<25/3;
+
+
+}
